@@ -1,0 +1,14 @@
+{
+    "name": "eva-ast",
+    "version": "1.0.0",
+    "description": "Eva",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "author": "Miho Krusic",
+    "license": "ISC",
+    "homepage": "https://github.com/mihokrusic/eva-ast",
+    "devDependencies": {
+        "prettier": "^1.19.1"
+    }
+}
